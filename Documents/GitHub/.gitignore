@@ -1,0 +1,7 @@
+.env
+.env.local
+credentials/
+keys/
+node_modules/
+.DS_Store
+*.log

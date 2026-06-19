@@ -1,0 +1,8 @@
+{
+  "patientName": "Robert Johnson",
+  "patientAge": "65",
+  "patientConditions": "Coronary Artery Disease, Type 2 Diabetes, Chronic Kidney Disease Stage 3, Hypertension",
+  "medications": "Aspirin 81mg daily, Ibuprofen 400mg as needed for pain, Warfarin 5mg daily, Metoprolol 50mg twice daily, Metformin 500mg twice daily, Lisinopril 10mg daily",
+  "doctorEmail": "analukur@asu.edu",
+  "patientEmail": "patient@example.com"
+}
